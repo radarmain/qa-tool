@@ -13,10 +13,7 @@ esm(app);
 const port = process.env.PORT || 5173;
 
 
-app.get('*', (req, res) => {
-  // Serve the main HTML file for client-side routing
-  res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
-});
+
 
 app.get('/api/fetch-data', async (req, res) => {
   const startDate = req.query.startDate;
