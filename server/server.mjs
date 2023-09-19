@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 esm(app);
 
-const port = 5173;
+const port = process.env.PORT || 5173;
 
 app.get('/api/fetch-data', async (req, res) => {
   const startDate = req.query.startDate;
