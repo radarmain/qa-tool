@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "radar-377104",
+  "private_key_id": "dad742fdccccaf430486ec9d2aeae3cf033a058e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/BMKDOSl2Kd74\nTjXy5pBOjZeJuCI1DPdazrCK/k2jkPHyx3VunOqlCZSPIpId586rI6I+nttAJdq0\nYBbnABpHRnyJAfFBJJH06BztIWFboZm81TU/FqSw00dgHObtQdwcDUa4ilh7gsYf\nel8oFlH8uWu/Yngi+vNmx/SU6C/3sq7NFSI/59d5FEuprM6DpiyL0kZjVdbrd6dp\nEwGcGFIHRjHot7J9r9BlpBdyGhJP8zdR4WypFh+6QgRfE23aSALssDT0J2PMYQn1\n3nIzafMRcS6JqSvF08up1gNaWMe09HpkxdguCZncKDvf312144iQWwv30rBC0V3t\nPBIrAirtAgMBAAECggEAAyk7Uz49q/IIFRvtXvt9uMnsRnSh3ttgd4iOmbf0aiyi\noYOS1/WWBug4W651GQ/PYA5LFYPZQsj2ufbI+Rjd8eOnVN09VDhTPnGwLkkg80oQ\nXKIoePRV3bqIxphwaykSPs8GJmdvaDQg2f+345+wXSWv9Cy74UriWjT4HKhMkXw7\nWvDQk6QyHvis/MaRsNyMaxN1YcL4dEbMGJVEk1Wndr5ba2VqCFFqvBFjC3dqdSiI\nXr63HBykIQgvCpnG6ZeP4e/EuTaxKjPMHpQqZ5U8+glrDR5Q+mmX5OajMl9BBaX8\n5901GRU/vDClS7hXVT8RWP0JT4ick+Ma7VR0o7F9oQKBgQDjlY27SC+D1dxx7g9e\nMSa69jIC2Db9RN3Z5HTYgkHD3uwkEhztlhBwT8WY3ztuRmXk3lmlj89URUl8aLkp\ngVGm1Rb8/KapuB37oW9HaQ9P8mxhR0r1UfYXHquL33gcjz3r0WyYq4jAeZQ1nDcz\nKPbh3hp/zIFu14dgTGENRfotjQKBgQDW3m6fKlI76MPGvh9ONpIxoPw9JudC1crw\nVnX6fc7qHx7tolfEEOIsGZVccNIqRVMQCkAuOVyWxyI1pm0yt5bGkOPuc4OjgLEU\nF3NGzelfKvbAzsD1SskfR5/CJOA4sC1GcIWkXhzPB8Mx3ydF0YK8uDbiJAkB+ULV\nz5p57gMq4QKBgQCpmiJtl3YRgacvIIJDZ829Nww+InOYe2H5p8+MKkZoehDxMK5u\nQI8vo8NWEcZwf/YfgbS9NVcFLj19gW28CKuY8OSY1JA/mv59L+mGBj1rDvbF6CNs\nfxAuWqTtMDSK1BUJUKDlha/8AJ769NgOQFD8MlD9PKKYv/YbRdBt2+B9YQKBgH4h\nbmCCkGlYluwomOnpwOHfNZKULrceFxYEOxdDGN54TEiEvu56Vro6fmIYXFayATNu\nQQShaYec96j0vC9Ec/61+Qb1yjWFiu1XYrUSlMbnypeeBsk3EF8LRW3LBdBhIwKx\ndNHq6RBi5yN0cnJarVso7BbNvnfpIWGvj2e53yQhAoGAS8Op3sI2tsPXENPG55qD\n22gO81dv28jmUiFCKfs0xPWdW6zvRW/LwdWufiE4eLUDx0lihSoJwtyBRHmTkTFS\nKfp43a+hmPcv1mBwayP7u7rLxmkkNshunThjDOKr0+N6sR2Ua65KMEhN7oEJX0R3\nvqXaOTIfU0grDdsV3GLbUWA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "improvado-data-push@radar-377104.iam.gserviceaccount.com",
+  "client_id": "114988442533366392227",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/improvado-data-push%40radar-377104.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

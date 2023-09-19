@@ -1,0 +1,374 @@
+{/* <div>
+      <div>
+        <label>
+          Start Date:
+          <input
+            type="text"
+            value={startDate}
+            onChange={e => setStartDate(e.target.value)}
+          />
+        </label>
+        <label>
+          End Date:
+          <input
+            type="text"
+            value={endDate}
+            onChange={e => setEndDate(e.target.value)}
+          />
+        </label>
+        <label>
+          Account Name:
+          <input
+            type="text"
+            value={accountName}
+            onChange={e => setAccountName(e.target.value)}
+          />
+        </label>
+        <button onClick={fetchData}>Fetch Data</button>
+      </div>
+      {isLoading ? (
+        <p>Loading...</p>
+      ) : (
+        <div>
+          <h2>Table 1 Data</h2>
+          {table1Data.length > 0 ? (
+          <ul>
+            {table1Data.map(item => (
+              <li key={item.id}>
+                Date: {item.date_start.value}, Account: {item.account_name}, Spend: ${item.spend}, Clicks: {item.clicks}
+              </li>
+            ))}
+          </ul>
+          ) : (
+      <p>No data available for Table 1.</p>
+    )}
+          
+          <h2>Table 2 Data</h2>
+          {table2Data.length > 0 ? (
+          <ul>
+            {table2Data.map(item => (
+              <li key={item.id}>
+                Date: {item.date.value}, Account: {item.account_name}, Clicks: {item.clicks}, Spend: {item.spend}
+              </li>
+            ))}
+            <p>total clicks: {sumClicks}</p>
+          </ul>
+          
+          ) : (
+            <p>No data available for Table 2.</p>
+          )}
+        </div>
+      )}
+    </div> */}
+
+
+
+    ////////////////////////////////////////////
+
+
+    // import React, { useState, useEffect } from 'react';
+// import axios from 'axios';
+// import throttledQueue from 'throttled-queue';
+
+// let throttle = throttledQueue(5, 1000); // Throttle your API calls
+
+// function App() {
+//   interface YourDataType {
+    // account_name: string;
+    // date_start: string;
+    // clicks: number;
+    // spend: number;
+    // Add other properties as needed
+  // }
+  // interface YourOtherDataType {
+  //   account_name: string;
+  //   date: string;
+  //   clicks: number;
+  //   spend: number;
+    // Add other properties as needed
+  // }
+
+  // const [table1Data, setTable1Data] = useState<Array<YourDataType>>([]);
+  // const [table2Data, setTable2Data] = useState<Array<YourOtherDataType>>([]);
+//   const [isLoading, setIsLoading] = useState(false);
+//   const [startDate, setStartDate] = useState('');
+//   const [endDate, setEndDate] = useState('');
+//   const [accountName, setAccountName] = useState('');
+
+//   useEffect(() => {
+//     // Fetch data from the API
+//     fetchData();
+//   }, []);
+
+//   const fetchData = async () => {
+//     setIsLoading(true);
+//     try {
+//       throttle(() => {
+//         axios.get('/api/fetch-data', {
+//           params: {
+//             startDate,
+//             endDate,
+//             accountName,
+//           },
+//         })
+//           .then(response => {
+//             setData(response.data);
+//             console.log('Response:', response.data);
+//           })
+//           .catch(error => {
+//             console.error('Error fetching data:', error);
+//           })
+//           .finally(() => {
+//             setIsLoading(false);
+//           });
+//       });
+//     } catch (error) {
+//       console.error('Error:', error);
+//       setIsLoading(false);
+//     }
+//   };
+
+//   return (
+//     <div>
+//       <div>
+//         <label>
+//           Start Date:
+//           <input
+//             type="text"
+//             value={startDate}
+//             onChange={e => setStartDate(e.target.value)}
+//           />
+//         </label>
+//         <label>
+//           End Date:
+//           <input
+//             type="text"
+//             value={endDate}
+//             onChange={e => setEndDate(e.target.value)}
+//           />
+//         </label>
+//         <label>
+//           Account Name:
+//           <input
+//             type="text"
+//             value={accountName}
+//             onChange={e => setAccountName(e.target.value)}
+//           />
+//         </label>
+//         <button onClick={fetchData}>Fetch Data</button>
+//       </div>
+//       <div>
+//         <h2>Table 1 Data</h2>
+//         {isLoading ? (
+//           <p>Loading...</p>
+//         ) : (
+//           <div>
+//             {data.table1.length > 0 ? (
+//               <ul>
+//                 {data.table1.map(item => (
+//                   <li key={item.id}>
+//                     Date: {item.date_start.value}, Account: {item.account_name}, Spend: ${item.spend}, Clicks: {item.clicks}
+//                   </li>
+//                 ))}
+//               </ul>
+//             ) : (
+//               <p>No data available.</p>
+//             )}
+//           </div>
+//         )}
+//       </div>
+//       <div>
+//         <h2>Table 2 Data</h2>
+//         {isLoading ? (
+//           <p>Loading...</p>
+//         ) : (
+//           <div>
+//             {data.table2.length > 0 ? (
+//               <ul>
+//                 {data.table2.map(item => (
+//                   <li key={item.id}>
+//                     Date: {item.date_start.value}, Account: {item.account_name}, Spend: ${item.spend}, Clicks: {item.clicks}
+//                   </li>
+//                 ))}
+//               </ul>
+//             ) : (
+//               <p>No data available.</p>
+//             )}
+//           </div>
+//         )}
+//       </div>
+//     </div>
+//   );
+// }
+
+// export default App;
+
+
+
+.pickers {
+  margin-left: 10%;
+  margin-top: 10px;
+  /* display: flex; */
+  flex-direction: row;
+  /* align-items: center; */
+}
+/* .pickers label {
+  display: flex;
+  margin-bottom: 30px;
+  margin-right: 30px; /* Add margin to create spacing between labels */
+} */
+
+.pickers input {
+  margin-bottom: 10px;
+  width: 0px; /* Add margin to create spacing between input fields */
+  margin-right: 10px;
+}
+
+.ant-design-elements {
+  z-index: 1; /* Set a lower z-index value */
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  z-index: -1;
+  position: relative;
+}
+
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+////////////////////////
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+/////////////////
+
+
+
+  // useEffect(() => {
+  //   // Fetch account names and metrics data when the component mounts
+  //   fetchAccountNamesWithMetrics();
+  // }, []);
+
+  // const fetchAccountNamesWithMetrics = async () => {
+  //   try {
+  //     // Fetch account names along with metrics
+  //     const response = await axios.get('/api/fetch-all-metrics');
+  //     setAccountNames(response.data);
+  //     setIsLoading(false); // Set loading to false once data is fetched
+  //   } catch (error) {
+  //     console.error('Error fetching account names with metrics:', error);
+  //   }
+  // };
+
+
+  /////////////////////
+
+
+  const fetchAndCompareMetrics = async () => {
+  try {
+    // Fetch account names from your API
+    // setIsLoading(true);
+    const accountNamesResponse = await axios.get('/api/account-names');
+    const accountNames = accountNamesResponse.data;
+
+    // Create an array to store accounts with discrepancies
+    const accountsWithDiscrepancies = [];
+
+    // Fetch metrics data and compare for each account
+    for (const account of accountNames) {
+      const metricsResponse = await axios.get(`/api/fetch-metrics/${account.accountName}`);
+      const metricsData = metricsResponse.data;
+      // console.log('returned metrics data', metricsData)
+
+      // Compare the metrics data
+      if (metricsData.table1Metrics.clicks !== metricsData.table2Metrics.clicks ||
+          metricsData.table1Metrics.spend !== metricsData.table2Metrics.spend ||
+          metricsData.table1Metrics.impressions !== metricsData.table2Metrics.impressions) {
+        // There's a discrepancy, add the account to the list
+        console.log('Discrepancy detected for:', account.accountName);
+        setAccountsWithDiscrepancies(prevAccounts => [
+          ...prevAccounts,
+          {
+            accountName: account.accountName,
+            table1Metrics: metricsData.table1Metrics,
+            table2Metrics: metricsData.table2Metrics,
+          },
+          
+        ]);
+        setIsLoading(false);
+        
+      }
+    }
+    
+    // Set the list of accounts with discrepancies in state for rendering
+    
+    // setAccountsWithDiscrepancies(accountsWithDiscrepancies);
+    console.log('AccountsWithDiscrepancies:', accountsWithDiscrepancies);
+    
+    setIsLoading(false);
+  } catch (error) {
+    console.error('Error fetching and comparing metrics:', error);
+  }
+};
+
+
+/////////////////////////
+
+const fetchAndCompareMetricsGA = async () => {
+  try {
+    // Fetch account names from your API
+    // setIsLoading(true);
+    const accountNamesResponse = await axios.get('/api/account-names-ga');
+    const accountNames = accountNamesResponse.data;
+  } catch (error) {
+    console.error('Error fetching and comparing metrics:', error);
+  }
+};

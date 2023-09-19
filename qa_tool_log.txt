@@ -1,0 +1,235 @@
+2023-09-07T16:51:09.183Z: Server is running on port 5173
+2023-09-07T16:51:31.499Z: Data to calculate metrics:
+2023-09-07T16:51:31.499Z: Processing clicks for item:
+2023-09-07T16:51:31.499Z: Processing spend for item:
+2023-09-07T16:51:31.500Z: Processing impressions for item:
+2023-09-07T16:51:31.500Z: Data to calculate metrics:
+2023-09-07T16:51:31.500Z: Processing clicks for item:
+2023-09-07T16:51:31.500Z: Processing spend for item:
+2023-09-07T16:51:31.500Z: Processing impressions for item:
+2023-09-07T16:51:31.500Z: Metrics data fetching failed for account:
+2023-09-07T16:51:33.712Z: Data to calculate metrics:
+2023-09-07T16:51:33.712Z: Processing clicks for item:
+2023-09-07T16:51:33.712Z: Processing spend for item:
+2023-09-07T16:51:33.712Z: Processing impressions for item:
+2023-09-07T16:51:33.712Z: Data to calculate metrics:
+2023-09-07T16:51:33.712Z: Processing clicks for item:
+2023-09-07T16:51:33.712Z: Processing spend for item:
+2023-09-07T16:51:33.712Z: Processing impressions for item:
+2023-09-07T16:51:33.712Z: Metrics data fetching failed for account:
+2023-09-07T16:51:35.390Z: Data to calculate metrics:
+2023-09-07T16:51:35.390Z: Processing clicks for item:
+2023-09-07T16:51:35.390Z: Processing spend for item:
+2023-09-07T16:51:35.390Z: Processing impressions for item:
+2023-09-07T16:51:35.390Z: Data to calculate metrics:
+2023-09-07T16:51:35.390Z: Processing clicks for item:
+2023-09-07T16:51:35.390Z: Processing spend for item:
+2023-09-07T16:51:35.390Z: Processing impressions for item:
+2023-09-07T16:51:35.390Z: Metrics data fetching failed for account:
+2023-09-07T16:51:38.064Z: Data to calculate metrics:
+2023-09-07T16:51:38.064Z: Processing clicks for item:
+2023-09-07T16:51:38.064Z: Processing spend for item:
+2023-09-07T16:51:38.064Z: Processing impressions for item:
+2023-09-07T16:51:38.064Z: Data to calculate metrics:
+2023-09-07T16:51:38.064Z: Processing clicks for item:
+2023-09-07T16:51:38.064Z: Processing spend for item:
+2023-09-07T16:51:38.064Z: Processing impressions for item:
+2023-09-07T16:51:38.064Z: Metrics data fetching failed for account:
+2023-09-07T16:51:42.163Z: Data to calculate metrics:
+2023-09-07T16:51:42.163Z: Processing clicks for item:
+2023-09-07T16:51:42.163Z: Processing spend for item:
+2023-09-07T16:51:42.163Z: Processing impressions for item:
+2023-09-07T16:51:42.164Z: Data to calculate metrics:
+2023-09-07T16:51:42.164Z: Processing clicks for item:
+2023-09-07T16:51:42.164Z: Processing spend for item:
+2023-09-07T16:51:42.164Z: Processing impressions for item:
+2023-09-07T16:51:42.164Z: Metrics data fetching failed for account:
+2023-09-07T16:51:42.219Z: Data to calculate metrics:
+2023-09-07T16:51:42.219Z: Processing clicks for item:
+2023-09-07T16:51:42.219Z: Processing spend for item:
+2023-09-07T16:51:42.219Z: Processing impressions for item:
+2023-09-07T16:51:42.219Z: Data to calculate metrics:
+2023-09-07T16:51:42.219Z: Processing clicks for item:
+2023-09-07T16:51:42.219Z: Processing spend for item:
+2023-09-07T16:51:42.219Z: Processing impressions for item:
+2023-09-07T16:51:42.219Z: Metrics data fetching failed for account:
+2023-09-07T16:51:44.470Z: Data to calculate metrics:
+2023-09-07T16:51:44.470Z: Processing clicks for item:
+2023-09-07T16:51:44.470Z: Processing spend for item:
+2023-09-07T16:51:44.470Z: Processing impressions for item:
+2023-09-07T16:51:44.470Z: Data to calculate metrics:
+2023-09-07T16:51:44.470Z: Processing clicks for item:
+2023-09-07T16:51:44.470Z: Processing spend for item:
+2023-09-07T16:51:44.470Z: Processing impressions for item:
+2023-09-07T16:51:44.470Z: Metrics data fetching failed for account:
+2023-09-07T16:51:45.503Z: Data to calculate metrics:
+2023-09-07T16:51:45.503Z: Processing clicks for item:
+2023-09-07T16:51:45.503Z: Processing spend for item:
+2023-09-07T16:51:45.503Z: Processing impressions for item:
+2023-09-07T16:51:45.503Z: Data to calculate metrics:
+2023-09-07T16:51:45.503Z: Processing clicks for item:
+2023-09-07T16:51:45.503Z: Processing spend for item:
+2023-09-07T16:51:45.503Z: Processing impressions for item:
+2023-09-07T16:51:45.503Z: Metrics data fetching failed for account:
+2023-09-07T16:51:49.035Z: Data to calculate metrics:
+2023-09-07T16:51:49.035Z: Processing clicks for item:
+2023-09-07T16:51:49.035Z: Processing spend for item:
+2023-09-07T16:51:49.035Z: Processing impressions for item:
+2023-09-07T16:51:49.035Z: Data to calculate metrics:
+2023-09-07T16:51:49.035Z: Processing clicks for item:
+2023-09-07T16:51:49.035Z: Processing spend for item:
+2023-09-07T16:51:49.035Z: Processing impressions for item:
+2023-09-07T16:51:49.035Z: Metrics data fetching failed for account:
+2023-09-07T16:51:50.828Z: Data to calculate metrics:
+2023-09-07T16:51:50.828Z: Processing clicks for item:
+2023-09-07T16:51:50.828Z: Processing spend for item:
+2023-09-07T16:51:50.828Z: Processing impressions for item:
+2023-09-07T16:51:50.828Z: Data to calculate metrics:
+2023-09-07T16:51:50.828Z: Processing clicks for item:
+2023-09-07T16:51:50.828Z: Processing spend for item:
+2023-09-07T16:51:50.828Z: Processing impressions for item:
+2023-09-07T16:51:50.828Z: Metrics data fetching failed for account:
+2023-09-07T16:51:52.450Z: Data to calculate metrics:
+2023-09-07T16:51:52.450Z: Processing clicks for item:
+2023-09-07T16:51:52.450Z: Processing spend for item:
+2023-09-07T16:51:52.450Z: Processing impressions for item:
+2023-09-07T16:51:52.450Z: Data to calculate metrics:
+2023-09-07T16:51:52.450Z: Processing clicks for item:
+2023-09-07T16:51:52.450Z: Processing spend for item:
+2023-09-07T16:51:52.450Z: Processing impressions for item:
+2023-09-07T16:51:52.450Z: Metrics data fetching failed for account:
+2023-09-07T16:51:54.248Z: Data to calculate metrics:
+2023-09-07T16:51:54.248Z: Processing clicks for item:
+2023-09-07T16:51:54.248Z: Processing spend for item:
+2023-09-07T16:51:54.248Z: Processing impressions for item:
+2023-09-07T16:51:54.248Z: Data to calculate metrics:
+2023-09-07T16:51:54.248Z: Processing clicks for item:
+2023-09-07T16:51:54.248Z: Processing spend for item:
+2023-09-07T16:51:54.248Z: Processing impressions for item:
+2023-09-07T16:51:54.248Z: Metrics data fetching failed for account:
+2023-09-07T16:51:57.369Z: Data to calculate metrics:
+2023-09-07T16:51:57.369Z: Processing clicks for item:
+2023-09-07T16:51:57.369Z: Processing spend for item:
+2023-09-07T16:51:57.369Z: Processing impressions for item:
+2023-09-07T16:51:57.369Z: Data to calculate metrics:
+2023-09-07T16:51:57.369Z: Processing clicks for item:
+2023-09-07T16:51:57.369Z: Processing spend for item:
+2023-09-07T16:51:57.369Z: Processing impressions for item:
+2023-09-07T16:51:57.369Z: Metrics data fetching failed for account:
+2023-09-07T16:51:59.872Z: Data to calculate metrics:
+2023-09-07T16:51:59.872Z: Processing clicks for item:
+2023-09-07T16:51:59.872Z: Processing spend for item:
+2023-09-07T16:51:59.872Z: Processing impressions for item:
+2023-09-07T16:51:59.872Z: Data to calculate metrics:
+2023-09-07T16:51:59.872Z: Processing clicks for item:
+2023-09-07T16:51:59.872Z: Processing spend for item:
+2023-09-07T16:51:59.872Z: Processing impressions for item:
+2023-09-07T16:51:59.872Z: Metrics data fetching failed for account:
+2023-09-07T16:52:02.561Z: Data to calculate metrics:
+2023-09-07T16:52:02.561Z: Processing clicks for item:
+2023-09-07T16:52:02.561Z: Processing spend for item:
+2023-09-07T16:52:02.561Z: Processing impressions for item:
+2023-09-07T16:52:02.561Z: Data to calculate metrics:
+2023-09-07T16:52:02.561Z: Processing clicks for item:
+2023-09-07T16:52:02.561Z: Processing spend for item:
+2023-09-07T16:52:02.561Z: Processing impressions for item:
+2023-09-07T16:52:02.561Z: Metrics data fetching failed for account:
+2023-09-07T16:52:04.429Z: Data to calculate metrics:
+2023-09-07T16:52:04.429Z: Processing clicks for item:
+2023-09-07T16:52:04.429Z: Processing spend for item:
+2023-09-07T16:52:04.429Z: Processing impressions for item:
+2023-09-07T16:52:04.429Z: Data to calculate metrics:
+2023-09-07T16:52:04.429Z: Processing clicks for item:
+2023-09-07T16:52:04.429Z: Processing spend for item:
+2023-09-07T16:52:04.429Z: Processing impressions for item:
+2023-09-07T16:52:04.429Z: Metrics data fetching failed for account:
+2023-09-07T16:52:05.872Z: Data to calculate metrics:
+2023-09-07T16:52:05.872Z: Processing clicks for item:
+2023-09-07T16:52:05.872Z: Processing spend for item:
+2023-09-07T16:52:05.872Z: Processing impressions for item:
+2023-09-07T16:52:05.872Z: Data to calculate metrics:
+2023-09-07T16:52:05.872Z: Processing clicks for item:
+2023-09-07T16:52:05.872Z: Processing spend for item:
+2023-09-07T16:52:05.872Z: Processing impressions for item:
+2023-09-07T16:52:05.872Z: Metrics data fetching failed for account:
+2023-09-07T16:52:09.882Z: Data to calculate metrics:
+2023-09-07T16:52:09.882Z: Processing clicks for item:
+2023-09-07T16:52:09.882Z: Processing spend for item:
+2023-09-07T16:52:09.882Z: Processing impressions for item:
+2023-09-07T16:52:09.882Z: Data to calculate metrics:
+2023-09-07T16:52:09.882Z: Processing clicks for item:
+2023-09-07T16:52:09.882Z: Processing spend for item:
+2023-09-07T16:52:09.882Z: Processing impressions for item:
+2023-09-07T16:52:09.882Z: Metrics data fetching failed for account:
+2023-09-07T16:52:12.831Z: Data to calculate metrics:
+2023-09-07T16:52:12.831Z: Processing clicks for item:
+2023-09-07T16:52:12.831Z: Processing spend for item:
+2023-09-07T16:52:12.831Z: Processing impressions for item:
+2023-09-07T16:52:12.831Z: Data to calculate metrics:
+2023-09-07T16:52:12.831Z: Processing clicks for item:
+2023-09-07T16:52:12.831Z: Processing spend for item:
+2023-09-07T16:52:12.831Z: Processing impressions for item:
+2023-09-07T16:52:12.831Z: Metrics data fetching failed for account:
+2023-09-07T16:52:13.967Z: Data to calculate metrics:
+2023-09-07T16:52:13.967Z: Processing clicks for item:
+2023-09-07T16:52:13.967Z: Processing spend for item:
+2023-09-07T16:52:13.967Z: Processing impressions for item:
+2023-09-07T16:52:13.967Z: Data to calculate metrics:
+2023-09-07T16:52:13.967Z: Processing clicks for item:
+2023-09-07T16:52:13.967Z: Processing spend for item:
+2023-09-07T16:52:13.967Z: Processing impressions for item:
+2023-09-07T16:52:13.967Z: Metrics data fetching failed for account:
+2023-09-07T16:52:17.254Z: Data to calculate metrics:
+2023-09-07T16:52:17.254Z: Processing clicks for item:
+2023-09-07T16:52:17.254Z: Processing spend for item:
+2023-09-07T16:52:17.254Z: Processing impressions for item:
+2023-09-07T16:52:17.254Z: Data to calculate metrics:
+2023-09-07T16:52:17.254Z: Processing clicks for item:
+2023-09-07T16:52:17.254Z: Processing spend for item:
+2023-09-07T16:52:17.254Z: Processing impressions for item:
+2023-09-07T16:52:17.254Z: Metrics data fetching failed for account:
+2023-09-07T16:52:19.509Z: Data to calculate metrics:
+2023-09-07T16:52:19.510Z: Processing clicks for item:
+2023-09-07T16:52:19.510Z: Processing spend for item:
+2023-09-07T16:52:19.510Z: Processing impressions for item:
+2023-09-07T16:52:19.510Z: Data to calculate metrics:
+2023-09-07T16:52:19.510Z: Processing clicks for item:
+2023-09-07T16:52:19.510Z: Processing spend for item:
+2023-09-07T16:52:19.510Z: Processing impressions for item:
+2023-09-07T16:52:19.510Z: Metrics data fetching failed for account:
+2023-09-07T16:52:22.538Z: Data to calculate metrics:
+2023-09-07T16:52:22.538Z: Processing clicks for item:
+2023-09-07T16:52:22.538Z: Processing spend for item:
+2023-09-07T16:52:22.538Z: Processing impressions for item:
+2023-09-07T16:52:22.538Z: Data to calculate metrics:
+2023-09-07T16:52:22.538Z: Processing clicks for item:
+2023-09-07T16:52:22.538Z: Processing spend for item:
+2023-09-07T16:52:22.538Z: Processing impressions for item:
+2023-09-07T16:52:22.538Z: Metrics data fetching failed for account:
+2023-09-07T16:52:22.588Z: Data to calculate metrics:
+2023-09-07T16:52:22.588Z: Processing clicks for item:
+2023-09-07T16:52:22.588Z: Processing spend for item:
+2023-09-07T16:52:22.588Z: Processing impressions for item:
+2023-09-07T16:52:22.588Z: Data to calculate metrics:
+2023-09-07T16:52:22.588Z: Processing clicks for item:
+2023-09-07T16:52:22.588Z: Processing spend for item:
+2023-09-07T16:52:22.588Z: Processing impressions for item:
+2023-09-07T16:52:22.588Z: Metrics data fetching failed for account:
+2023-09-07T16:52:24.869Z: Data to calculate metrics:
+2023-09-07T16:52:24.869Z: Processing clicks for item:
+2023-09-07T16:52:24.869Z: Processing spend for item:
+2023-09-07T16:52:24.869Z: Processing impressions for item:
+2023-09-07T16:52:24.869Z: Data to calculate metrics:
+2023-09-07T16:52:24.869Z: Processing clicks for item:
+2023-09-07T16:52:24.869Z: Processing spend for item:
+2023-09-07T16:52:24.869Z: Processing impressions for item:
+2023-09-07T16:52:24.869Z: Metrics data fetching failed for account:
+2023-09-07T16:52:27.190Z: Data to calculate metrics:
+2023-09-07T16:52:27.190Z: Processing clicks for item:
+2023-09-07T16:52:27.190Z: Processing spend for item:
+2023-09-07T16:52:27.190Z: Processing impressions for item:
+2023-09-07T16:52:27.190Z: Data to calculate metrics:
+2023-09-07T16:52:27.190Z: Processing clicks for item:
+2023-09-07T16:52:27.190Z: Processing spend for item:
+2023-09-07T16:52:27.190Z: Processing impressions for item:
+2023-09-07T16:52:27.190Z: Metrics data fetching failed for account:
