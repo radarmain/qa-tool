@@ -13,7 +13,15 @@ esm(app);
 const port = process.env.PORT || 5173;
 
 
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+});
 
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error('An error occurred:', err);
+  res.status(500).json({ error: 'Internal Server Error' });
+});
 
 app.get('/api/fetch-data', async (req, res) => {
   const startDate = req.query.startDate;
