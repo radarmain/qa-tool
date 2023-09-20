@@ -1,16 +1,18 @@
 import express from 'express'
-
 import { fetchBigQueryData, fetchAccountNamesFromTable2, fetchSpendData, fetchBigQueryDataWithMetrics, fetchSpendDataGA, calculateGADiscrepancies, calculatedv3Discrepancies, calculategcmDiscrepancies, calculateFBDiscrepancies, fetchGABigQueryData } from './authenticate.mjs'
 import path from 'path'
 import cors from 'cors'
 import esm from 'express'
-import axios from 'axios' 
+import { fileURLToPath } from 'url'; 
 
 const app = express();
 app.use(cors());
 esm(app);
 
 const port = process.env.PORT || 5173;
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 
 app.get('*', (req, res) => {
