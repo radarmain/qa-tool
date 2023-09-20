@@ -14,7 +14,7 @@ const port = process.env.PORT || 5173;
 
 
 app.get('*', (req, res) => {
-  res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+  res.sendFile('index.html', { root: __dirname });
 });
 
 // Error handling middleware
