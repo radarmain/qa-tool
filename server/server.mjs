@@ -13,7 +13,8 @@ const port = process.env.PORT || 5173;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const indexPath = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'index.html');
+const indexPath = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'dist', 'index.html');
+
 
 app.get('*', (req, res) => {
   if (req.url.endsWith('.mjs')) {
