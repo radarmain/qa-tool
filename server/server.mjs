@@ -11,12 +11,11 @@ esm(app);
 
 const port = process.env.PORT || 5173;
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
+const indexPath = path.join(__dirname, '..', 'index.html');
 
 app.get('*', (req, res) => {
-  res.sendFile('index.html', { root: __dirname });
+  // Serve the main HTML file (index.html) from the directory above 'server'
+  res.sendFile(indexPath);
 });
 
 // Error handling middleware
