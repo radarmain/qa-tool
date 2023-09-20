@@ -1,7 +1,7 @@
 import express from 'express'
 
 import { fetchBigQueryData, fetchAccountNamesFromTable2, fetchSpendData, fetchBigQueryDataWithMetrics, fetchSpendDataGA, calculateGADiscrepancies, calculatedv3Discrepancies, calculategcmDiscrepancies, calculateFBDiscrepancies, fetchGABigQueryData } from './authenticate.mjs'
-
+import path from 'path'
 import cors from 'cors'
 import esm from 'express'
 import axios from 'axios' 
