@@ -10,8 +10,10 @@ app.use(cors());
 esm(app);
 
 const port = process.env.PORT || 5173;
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const indexPath = path.join(__dirname, '..', 'index.html');
+const indexPath = path.join(path.dirname(fileURLToPath(import.meta.url)), '..', 'index.html');
 
 app.get('*', (req, res) => {
   // Serve the main HTML file (index.html) from the directory above 'server'
