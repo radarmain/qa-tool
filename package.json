@@ -23,7 +23,8 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.15.0",
     "throttled-queue": "^2.1.4",
-    "vite": "^4.4.9"
+    "vite": "^4.4.9",
+    "@vitejs/plugin-react": "^4.0.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
@@ -34,7 +35,7 @@
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
-    "@vitejs/plugin-react": "^4.0.3",
+    
     "eslint": "^8.45.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
