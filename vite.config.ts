@@ -7,7 +7,8 @@ export default defineConfig({
     rollupOptions: {
       
       output: {
-        
+        entryFileNames: `[name].[hash].mjs`,
+        chunkFileNames: `[name].[hash].mjs`,
       },
     },
   },
