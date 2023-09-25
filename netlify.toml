@@ -1,0 +1,9 @@
+[build]
+publish = "dist" # Specify the directory where your built files are located
+command = "npm run build" # Specify the build command
+
+[build.environment]
+NODE_VERSION = "14" # Specify the Node.js version you want to use during the build
+
+[dev]
+command = "npm run dev" # Specify the development server command
