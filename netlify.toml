@@ -1,6 +1,6 @@
 [build]
 publish = "dist" # Specify the directory where your built files are located
-command = "npm run build" # Specify the build command
+command = "npm run build && npm run start" # Specify the build command
 environment = { NODE_VERSION = "18.17.1", NPM_VERSION = "9.6.7" }
 
 [dev]
