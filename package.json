@@ -11,7 +11,8 @@
     "heroku-postbuild": "cd src && npm install && npm run build"
   },
   "engines": {
-    "node": "18.17.1" 
+    "node": "18.17.1",
+    "npm": "9.6.7" 
   },
   
   "dependencies": {
